@@ -21,7 +21,7 @@
 
 ## **My projects**
 
-* [nome do projeto](https://github.com/fernandacfb/fernandacfb)
+* [Studies](https://github.com/fernandacfb/studies)
 
 
 
