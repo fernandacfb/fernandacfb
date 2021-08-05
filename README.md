@@ -1,16 +1,27 @@
-### Hi there 👋
+# **Hi, I'm Fernanda** 👩‍💻👋 
+###  
 
-<!--
-**fernandacfb/fernandacfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Who am I? 
+* 📊 Business analyst.
+* 👩‍💻 Data Scientist Student 🥰.
+* 👩‍🎓 Bachelor degree  in Business Management - Wyden-BA 
+* 🎓 MBA in Marketing - FGV-SP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👩‍💻
+
+* 📊 Data Visualization
+* 🧮 Power BI.
+* 🐍 Learning Python
+
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin](https://www.linkedin.com/in/fernandacamerafigueirabarbosa//)
+
+## **My projects**
+
+* [nome do projeto](https://github.com/fernandacfb/fernandacfb)
+
+
+
